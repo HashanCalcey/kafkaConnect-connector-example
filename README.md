@@ -25,7 +25,7 @@ $ kafka_2.12-2.2.1/bin/connect-standalone.sh connect-standalone.properties sql-s
 ```sh
 $ kafka_2.12-2.2.1/bin/kafka-topics.sh --bootstrap-server localhost:9092 --list
 ```
-	- and check wheather there are any topics starting from "incrementing-" 
+	- and check whether there are any topics starting from "incrementing-" 
 	* you can change the prefix by changing topic.prefix in connector properties
 
 ####  5. start console consumer and subscribe to a topic
