@@ -9,7 +9,7 @@
 ```sh
 $ kafka_2.12-2.2.1/bin/zookeeper-server-start.sh zookeeper.properties
 ```
-####  2. then start kafka server
+####  2. start kafka server
 ```sh
 $ kafka_2.12-2.2.1/bin/kafka-server-start.sh server.properties
 ```
