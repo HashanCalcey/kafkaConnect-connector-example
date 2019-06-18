@@ -1,0 +1,8 @@
+-- zookeeper start
+zookeeper-server-start.sh config/zookeeper.properties
+
+-- kafka server
+kafka-server-start.sh server-my.properties
+
+-- list topics
+kafka-topics.sh --zookeeper localhost:2181 --list
