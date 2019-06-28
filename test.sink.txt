@@ -1,0 +1,6 @@
+Struct{after=Struct{id=1,name=jon snow,age=25},source=Struct{version=0.9.5.Final,connector=sqlserver,name=server1,ts_ms=1561011215216,commit_lsn=00000037:000072f0:0004,snapshot=true},op=r,ts_ms=1561011215218}
+Struct{after=Struct{id=3,name=jon doddddde,age=20,timelog=1560787961017},source=Struct{version=0.9.5.Final,connector=sqlserver,name=server1,ts_ms=1561011215221,commit_lsn=00000037:000072f0:0004,snapshot=true},op=r,ts_ms=1561011215222}
+Struct{after=Struct{id=5,name=pamiy,age=25,timelog=1560788529637},source=Struct{version=0.9.5.Final,connector=sqlserver,name=server1,ts_ms=1561011215223,commit_lsn=00000037:000072f0:0004,snapshot=true},op=r,ts_ms=1561011215223}
+Struct{after=Struct{id=6,name=pamm,age=25,timelog=1560851642747},source=Struct{version=0.9.5.Final,connector=sqlserver,name=server1,ts_ms=1561011215223,commit_lsn=00000037:000072f0:0004,snapshot=true},op=r,ts_ms=1561011215223}
+Struct{after=Struct{id=8,name=kevin,age=25,timelog=1560866007747},source=Struct{version=0.9.5.Final,connector=sqlserver,name=server1,ts_ms=1561011215224,commit_lsn=00000037:000072f0:0004,snapshot=true},op=r,ts_ms=1561011215224}
+Struct{after=Struct{id=9,name=kevin heart,age=25,timelog=1561030899050},source=Struct{version=0.9.5.Final,connector=sqlserver,name=server1,ts_ms=1561011215224,commit_lsn=00000037:000072f0:0004,snapshot=true},op=r,ts_ms=1561011215224}
