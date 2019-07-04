@@ -19,7 +19,6 @@ $ kafka_2.12-2.2.1/bin/connect-standalone.sh connect-standalone.properties sql-s
 ```
 	- table.whitelist - specify tables you want to monitor
 	- mode - specifiy the mode incrementing, timestamp, both
-	- for more [Source Config](http://www.google.com)
 
 ####  4. check topic list
 ```sh
